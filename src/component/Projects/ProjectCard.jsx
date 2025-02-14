@@ -29,7 +29,7 @@ const ProjectCard = ({
           Link
         </a> */}
         <a href={source} className={styles.link}>
-          Link
+         Source
         </a>
       </div>
     </div>
