@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Crud Operation",
+        "imageSrc": "projects/crudProject.png",
+        "description": "Developed a CRUD application using the MERN stack, implementing robust functionalities for seamless data management and interactive user experiences.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "React",
+            "JavaScript",
+            "Node Js"   
+        ],
+         "source": "https://github.com/Komalch06/CRUD_MERSTACK"
+    },
+    {
+        "title": "Currency Converter",
+        "imageSrc": "projects/currency.png",
+        "description": "Developed a Currency Converter application, integrated with a currency exchange API to enable real-time conversions, featuring a user-friendly interface and accurate exchange rate calculations",
+        "skills": [
+            "HTML",
+            "Css",
+            "JavaScript"
+        ],
+        "source": "https://github.com/Komalch06/Currency-converter"
+    },
+    {
+        "title": "Expense Tracker",
+        "imageSrc": "projects/expense.png",
+        "description": " Leverages Chrome's Local Storage to save expense data directly in the user's browser, ensuring data persistence without requiring a backend server.",
+        "skills": [
+            "HTML",
+            "Bootstrap",
+            "JavaScript",
+            "CSS"
+        ],
+        "source": "https://github.com/Komalch06/Expense-Tracker"
+    },
+     {
+        "title": "Password Generator App",
+        "imageSrc": "projects/passwordGen.png",
+        "description": " Generate random passwords of a specified length.Include/exclude uppercase letters, lowercase letters, numbers, and special characters. User-friendly interface with checkboxes for easy customization.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "React",
+            "JavaScript"
+        ],
+        "source": "https://github.com/Komalch06/password-generator"
+    },
+    {
+        "title": "Study Abroad Landing Page",
+        "imageSrc": "projects/mbbsPage.png",
+        "description": " A visually appealing and responsive landing page designed for students interested in studying MBBS abroad. It features key benefits, top countries, a step-by-step admission process, and a lead generation form.",
+        "skills": [    
+            "HTML",
+           "TailwindCSS",
+            "JavaScript",
+            "CSS"
+        ],
+        "source": "https://github.com/Komalch06/StudyAbroad_Page"
+    }
+]

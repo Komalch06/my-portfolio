@@ -1,0 +1,17 @@
+[
+    {
+        "role": "Intern",
+        "organisation": "CodeSquadz",
+        "startDate": "Feb, 2024",
+        "endDate": "Present",
+        "abouts": [
+            "Proficient in Java Full Stack development with expertise in Core Java, Advance Java, Hibernate, and Front-end technologies.",
+            "Passionate about solving complex problems and delivering scalable solutionsfor real-world projects.",
+            "Working with databases (MySQL,MongoDB) for data storage and retrieval.",
+            "Debugging, testing, and improving application performance.",
+            "Strong foundation in Data Structures and Algorithms."
+        ],
+        "imageSrc": "history/c.png"
+    }
+  
+]
